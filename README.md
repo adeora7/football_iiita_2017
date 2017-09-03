@@ -1,18 +1,14 @@
 # Football Tournament 2017 - IIITA
 
 ## Upcoming Fixtures
-  
+    
   |  Semi Final 1     |    7:00 p.m. 08/09/2017  | 
-  |-------------------|--------------------------|
-  |  4th Year         |    Faculty + PhD + Staff |
-  
-  
-  
-  |  Semi Final 2     |    8:00 p.m. 08/09/2017  | 
   |-------------------|--------------------------|
   |  3rd Year         |    2nd Year |
         
-        
+  |  Semi Final 2     |    8:00 p.m. 08/09/2017  | 
+  |-------------------|--------------------------|
+  |  4th Year         |    Faculty + PhD + Staff |
         
 
 ## Results of previous matches
