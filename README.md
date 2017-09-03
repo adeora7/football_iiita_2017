@@ -17,7 +17,7 @@
 
 ## Results of previous matches
 
-### Day 3
+## Day 3
 
   |  Group A Match    |    9:00 p.m. 02/09/2017  | 
   |-------------------|--------------------------|
@@ -37,7 +37,7 @@
   |      2            |         1                |
   |  Sakshi Shrivas, Hiral(P) |  Ayushi Nirmal  |
   
-### Day 2
+## Day 2
 
   |  Group B Match    |    9:00 p.m. 01/09/2017  | 
   |-------------------|--------------------------|
@@ -57,7 +57,7 @@
   |      4            |         1                |
   |  Lithika(3), Muskan |  Priyanka(OG)  |
 
-### Day 1
+## Day 1
   
   |  Group A Match    |    8:00 p.m. 31/08/2017  | 
   |-------------------|--------------------------|
