@@ -33,7 +33,7 @@
   |-------------------|--------------------------|
   |  2nd year         |    3rd year          |
   |      2            |         1                |
-  |  Sakshi Shrivas, Hiral(P) |  Ayushi Nirmal  |
+  |  Sakshi Shrivas, Hiral(P) |  Ayushi Nirmal(P)  |
   
 ## Day 2
 
