@@ -1,20 +1,34 @@
 # Football Tournament 2017 - IIITA
 
-## Upcoming Fixtures
+## Day 5 Finals
+    
+  |  Final (girls)    |    7:00 p.m. 09/09/2017  | 
+  |-------------------|--------------------------|
+  |  2nd Year         |    1st year              |
+  |    2              |          1               |
+  | Hiral, Princy     |      Lithika             |
+  
+  |  Final (boys)     |    7:30 p.m. 09/09/2017  | 
+  |-------------------|--------------------------|
+  |  4th Year         |    3rd year              |
+  |    0              |               2          |
+  |      -            |      Nitish(2)           |
+
+## Day 4 Semi Finals
     
   |  Semi Final 1     |    7:00 p.m. 08/09/2017  | 
   |-------------------|--------------------------|
   |  4th Year         |    Faculty + PhD + Staff |
+  |    3              |               0          |
+  | Yashpal Singh, A. Deora(P), Nitin |      -   |
   
    
   |  Semi Final 2     |    8:00 p.m. 08/09/2017  | 
   |-------------------|--------------------------|
-  |  3rd Year         |    2nd Year |
+  |  3rd Year         |    2nd Year              |
+  |   3(3)            |    2(2)                  |
+  |  Penalties        |  Penalties               |
         
-        
-
-## Results of previous matches
-
 ## Day 3
 
   |  Group A Match    |    9:00 p.m. 02/09/2017  | 
